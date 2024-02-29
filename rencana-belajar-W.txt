@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+
+-Buat Project Dasar
+-Belajar Javascript Lanjutan
+-Belajar Javascript FrameWork
