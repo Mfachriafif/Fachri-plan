@@ -1,5 +1,7 @@
 RENCANA BELAJAR
 
 -Buat Project Dasar
+ *Algoritma
+ *Syntax
 -Belajar Javascript Lanjutan
 -Belajar Javascript FrameWork
